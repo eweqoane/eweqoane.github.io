@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eweqoane.github.io/KSE/sitemap_index.txt
+Sitemap: https://eweqoane.github.io/ONT/sitemap_index.txt
+Sitemap: https://eweqoane.github.io/ShT/sitemap_index.txt
+Sitemap: https://eweqoane.github.io/vdD/sitemap_index.txt
